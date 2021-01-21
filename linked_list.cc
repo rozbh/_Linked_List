@@ -124,7 +124,7 @@ public:
         delete tmp2;
         return 1;
     }
- // int add in middle im lazy now fuck it
+ // int add in middle im lazy now fuck it remmber Function overrideing dumbAss
 };
 
 int main()
